@@ -20,3 +20,4 @@ foreach (var course in courses)
 }
 
 Console.WriteLine($"Avarage: {sumPoints / (courses.Length + sumRatio)}");
+Console.ReadKey();
