@@ -1,5 +1,4 @@
-﻿using System.ComponentModel;
-
+﻿//Arya Taheri
 string[] courses = { "math", "programming", "ebglish lang", "persian lang", "advanced programming", "network", "data structure", "data base", "advanced programming 2", "mobile programming"};
 int sumPoints = 0, point = 0, sumRatio = 0;
 
