@@ -15,6 +15,7 @@ foreach (var course in courses)
     }
     catch {
         Console.WriteLine("Bad input...\nhere you go again :)");
+        return;
     }
 }
 
